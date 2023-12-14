@@ -13,7 +13,12 @@ $joueur2="lulu";
 $caseMin=0;
 $caseMax=9;
 $caseMax++;
+while ($caseMax<=9) {
 echo  $joueur1 . "  choisissez une case de 1 a 9 ";
 $case1=trim(fgets( STDIN)) ;
 echo  $joueur2 . "  choisissez une case de 1 a 9 ";
 $case2=trim(fgets( STDIN)) ;
+}
+if ( $case1==1 && $case1==2 && $case1==3 ){
+    echo " alors " .$joueur1 ."gagne .";
+}
