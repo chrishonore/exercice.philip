@@ -1,0 +1,49 @@
+Répondez avec vos mots aux questions qui suivent dans un fichier texte, l'intégralité
+des réponses se trouve quelque part sur le site, mais je ne veux pas de copier/coller,
+je veux que vous me l'expliquiez avec vos mots :
+Quelle est la différence entre la boucle while et la boucle for ?
+
+La boucle while permet d executer la tache voulue et 
+la boucle for repete la boucle tant que la condition est vrai 
+
+Peut-on mettre une boucle for dans les parenthèses d'une boucle while ?
+non
+Pourquoi ? 
+
+
+A quoi sert le modulo (%) en programmation ? Donnez moi un exemple d'utilité
+et un exemple d'opération mathématique correct. (exemple : 1+1 = 2, mais avec
+un modulo, X % Y = Z)
+
+est utilise pour calculer une valeur exemple
+se le nombre muliplie par le suivant :4%2=0 ce qui veut dire que si le resultat est 0alors il est modulo
+
+Quels sont les principaux types de données ? 
+
+Dans un programme, est-ce que je peux avoir un else tout seul, sans if avant ?
+
+non
+
+Pourquoi ?
+
+parce que il est toujour precede par le if ou le elseif
+
+Quand serait-il approprié d'utiliser une structure switch plutôt qu'une série de
+structures if ?
+
+quand on connais deja le nombre des cases a selectionner
+
+En programmation quelle est la différence entre = et == ?
+
+= represente une valeur a une variable 
+== represente une valeur de comparaison ou de calcul
+
+Comment déclarez-vous une variable ?
+
+en lui ajoutant une valeur ex: $age=25 / $nom=chris
+
+vrai && vrai = ? vrai
+!vrai || faux || faux || faux || faux || !vrai = ? faux
+27 % 8 = ?faux
+15 % 105 = ?vrai
+
